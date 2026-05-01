@@ -26,8 +26,8 @@ The resulting plots confirmed that ground removal averaged ~25 ms and never ex
 
 ---
 
-### !! 'perception_mock_node.py' and 'PreprocessingNode.cpp' were already written by the increadible **Munich Motorsport Driverless Team** who built an impressive autonomous racing system from the ground up.
-/Original file copyright municHMotorsport e.V.
+### [!! 'perception_mock_node.py' and 'PreprocessingNode.cpp' were already written by the increadible **Munich Motorsport Driverless Team** who built an impressive autonomous racing system from the ground up.
+/Original file copyright municHMotorsport e.V. ]
 
  
  
