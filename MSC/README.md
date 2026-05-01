@@ -22,7 +22,7 @@ Goal: Regulate the ball position (l) by adjusting the beam angle (φ).
 ## Files:
 
 - `ball_beam_analysis.ipynb` – Jupyter notebook with derivations and plots
-- `ball_beam_block_diagram.png` – Block diagram image
+- `ball_beam.png` – System image
 - `beam_model.slx` – Simulink model (work in progress)
 
 ## Tools:
